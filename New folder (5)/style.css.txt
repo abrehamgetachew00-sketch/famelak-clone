@@ -3,3 +3,17 @@ body {
   background: #f4f4f4;
   text-align: center;
 }
+body {
+  font-family: Arial;
+  background: #f0f2f5;
+  text-align: center;
+}
+
+.post {
+  background: white;
+  padding: 15px;
+  margin: 20px auto;
+  width: 300px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px gray;
+}
