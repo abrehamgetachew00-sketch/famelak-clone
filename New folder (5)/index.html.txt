@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Famelak Clone</title>
+</head>
+<body>
+  <h1>Welcome to My Platform</h1>
+  <p>Share your content here</p>
+</body>
+</html>
